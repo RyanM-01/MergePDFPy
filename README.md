@@ -2,7 +2,7 @@ This is a simple Python Script to Merge PDF files and place the merged file in t
 I made this for practice, enjoy!
 don't forget to install PDF2 by using :
 pip install PDF2
-~How to Use~
+~ How to Use ~
 1. Open file with your code editor and then change the output_directory = "Path/To/Your/Destination/File"  with your chosen destination file
 2. Open CMD/Terminal
 3. Navigate to the MergePDFPY directory (in windows you can use cd command)
